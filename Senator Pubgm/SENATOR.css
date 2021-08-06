@@ -1,0 +1,61 @@
+.orqa_fon{
+background-image: linear-gradient(to right , rgba(60, 255, 0, 0.315),  rgba(40, 115, 165, 0.219));
+width: 100%;
+height: 100vh;
+padding: 22px;
+}
+.top{   
+    color:rgb(32, 104, 56);
+    position: relative;
+   bottom: 97vh;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.telegram{ 
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+    padding: 7px 20px ;
+    background-image: linear-gradient(to right, rgba(159, 185, 86, 0.575), rgba(3, 131, 250, 0.637));
+    font-size: 15px;
+
+}
+.telegram:hover{
+   border-bottom: 1px solid white;
+
+}
+
+.tepa_fon{position: relative;
+    top: 45px;
+    background-image:linear-gradient(to right, blue,red, green) ;
+    width: 100%;
+    height: 40px;
+right:1px;
+}
+li{position: relative;
+    left: 0px;
+display: inline-block;    
+
+padding: 10px;
+}
+a{
+    color: white;
+}
+i{
+    color: white;
+}
+
+a:hover{
+    border-bottom: 1px solid white;
+}
+
+#telegram_icon{position: relative;
+ 
+   font-size: 25px;
+   left: 10px;
+   top: 5px;
+}
+#instagram_icon{position: relative;
+left: 200px;
+}
